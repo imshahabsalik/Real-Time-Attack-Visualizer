@@ -1,0 +1,4 @@
+flask
+flask-socketio
+pywin32
+eventlet
